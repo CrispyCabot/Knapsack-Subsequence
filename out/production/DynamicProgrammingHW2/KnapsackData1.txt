@@ -1,4 +1,0 @@
-Project0 6 30
-Project1 3 14
-Project2 4 16
-Project3 2 9
